@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="buy">شراء</string>
+    <string name="dashboard">الرئيسية</string>
+    <string name="email_cannot_be_empty">حقل البريد لا يمكن تركه فارغًا</string>
+    <string name="email_input">البريد الإلكتروني</string>
+    <string name="full_name_input">الاسم الكامل</string>
+    <string name="invested">الاستثمار الكامل</string>
+    <string name="login_button">تسجيل دخول</string>
+    <string name="name_caonnot_be_empty">خانة الاسم الكامل لا يمكن تركها فارغة</string>
+    <string name="password_at_least">كلمة السر يجب أن تكون على الأقل 8 أحرف</string>
+    <string name="password_cannot_be_empty">كلمة السر لا يمكن ركها فارغة</string>
+    <string name="password_input">كلمة السر</string>
+    <string name="register_button">تسجيل جديد</string>
+    <string name="sell">بيع</string>
+    <string name="slogan_text">هدفنا أن نجعلك غنيًا</string>
+    <string name="title_currencies">العملات</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="title_profile">الملف الشخصي</string>
+    <string name="title_transactions">التحويلات</string>
+    <string name="buying_rate">سعر الشراء</string>
+    <string name="amount_title">المقدار</string>
+    <string name="total_title">المجموع</string>
+    <string name="main_portfolio">المحفظة الرئيسية</string>
+</resources>

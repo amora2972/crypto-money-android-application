@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name" translatable="false">Crypto Money</string>
+    <string name="title_home">Home</string>
+    <string name="title_transactions">Transactions</string>
+    <string name="title_currencies">Currencies</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="slogan_text">Our aim is to make you rich</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="full_name_input">Full Name</string>
+    <string name="email_input">E-mail</string>
+    <string name="password_input">Password</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="usd_text" translatable="false">USD</string>
+    <string name="buy">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="invested">Total Investment</string>
+    <string name="main_portfolio">Main Portfolio</string>
+    <string name="password_cannot_be_empty">password can\'t be left empty</string>
+    <string name="name_caonnot_be_empty">Full name can\'t be left empty</string>
+    <string name="email_cannot_be_empty">Email can\'t be left empty</string>
+    <string name="password_at_least">password must be at least 8 characters</string>
+    <string name="id_title" translatable="false">ID</string>
+    <string name="buying_rate">Buying Rate</string>
+    <string name="amount_title">Amount</string>
+    <string name="total_title">Total</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="add_currency">Add Currency</string>
+</resources>

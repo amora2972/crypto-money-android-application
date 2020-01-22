@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content">
+
+  <TextView
+    android:layout_width="100dp"
+    android:layout_height="match_parent"
+    android:id="@+id/tx_id"
+    android:layout_alignParentLeft="true"
+    android:textAppearance="?android:textAppearanceLarge"
+    android:text="xyz"
+    android:textSize="15sp"
+    android:textColor="@color/colorPrimary"/>
+
+  <TextView
+    android:layout_width="100dp"
+    android:layout_height="match_parent"
+    android:id="@+id/tx_name"
+    android:layout_toRightOf="@id/tx_id"
+    android:textAppearance="?android:textAppearanceLarge"
+    android:text="xyz"
+    android:textSize="15sp"
+    android:textColor="@color/colorPrimary"/>
+
+  <TextView
+    android:layout_width="100dp"
+    android:layout_height="match_parent"
+    android:id="@+id/tx_symbol"
+    android:layout_toRightOf="@id/tx_name"
+    android:textAppearance="?android:textAppearanceLarge"
+    android:text="xyz"
+    android:textSize="15sp"
+    android:textColor="@color/colorPrimary"/>
+
+
+  <TextView
+    android:layout_width="100dp"
+    android:layout_height="match_parent"
+    android:id="@+id/tx_price"
+    android:layout_toRightOf="@id/tx_symbol"
+    android:textAppearance="?android:textAppearanceLarge"
+    android:text="xyz"
+    android:textSize="15sp"
+    android:textColor="@color/colorPrimary"/>
+
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dashboard">Gösterge Paneli</string>
+    <string name="buy">Satın</string>
+    <string name="email_input">E-posta</string>
+    <string name="full_name_input">Ad Soyad</string>
+    <string name="invested">Toplam Yatırım</string>
+    <string name="login_button">Oturum aç</string>
+    <string name="password_input">Parola</string>
+    <string name="register_button">Kayıt ol</string>
+    <string name="sell">Satmak</string>
+    <string name="slogan_text">Amacımız sizi zengin yapmak</string>
+    <string name="title_currencies">Kurlar</string>
+    <string name="title_home">Ana Sayfa</string>
+    <string name="title_profile">Profil</string>
+    <string name="title_transactions">işlemler</string>
+    <string name="password_cannot_be_empty">şifre boş bırakılamaz</string>
+    <string name="name_caonnot_be_empty">Tam ad boş bırakılamaz</string>
+    <string name="email_cannot_be_empty">E-posta boş bırakılamaz</string>
+    <string name="password_at_least">Şifre en az 8 karakter olmalıdır</string>
+    <string name="buying_rate">Satınalma oranı</string>
+    <string name="amount_title">Miktar</string>
+    <string name="total_title">Toplam</string>
+    <string name="main_portfolio">Ana Portföy</string>
+</resources>

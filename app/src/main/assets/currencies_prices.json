@@ -1,0 +1,44 @@
+{
+  "currencies": [
+    {
+      "id": 2,
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "full_name": "Bitcoin Cash / BCC (BCH)",
+      "max_supply": 21000000,
+      "editable": 0,
+      "created_at": "2019-12-16 13:03:45",
+      "updated_at": "2019-12-16 13:03:45"
+    },
+    {
+      "id": 3,
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "full_name": "Ethereum (ETH)",
+      "max_supply": 0,
+      "editable": 0,
+      "created_at": "2019-12-16 13:03:45",
+      "updated_at": "2019-12-16 13:03:45"
+    },
+    {
+      "id": 4,
+      "symbol": "ETN",
+      "name": "Electroneum",
+      "full_name": "Electroneum (ETN)",
+      "max_supply": 21000000000,
+      "editable": 0,
+      "created_at": "2019-12-16 13:03:45",
+      "updated_at": "2019-12-16 13:03:45"
+    },
+    {
+      "id": 5,
+      "symbol": "BTF",
+      "name": "Bit Coin",
+      "full_name": "Bit Coin General",
+      "max_supply": null,
+      "editable": 0,
+      "created_at": "2019-12-16 13:53:09",
+      "updated_at": "2019-12-16 13:53:09"
+    }
+  ]
+}
